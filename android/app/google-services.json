@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "493863925101",
+    "project_id": "chat-app-6b3f0",
+    "storage_bucket": "chat-app-6b3f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493863925101:android:3c9d8e4f43f82c80acd664",
+        "android_client_info": {
+          "package_name": "co.Ritikapp.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493863925101-vs4912l7sr0j51to9gb22t7crp7q9orm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxLk9fiih9v1VhzrzPYta1LBp42zaWtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493863925101-vs4912l7sr0j51to9gb22t7crp7q9orm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493863925101-lgd75tvufarv0ok3e1sguf9agodpigsr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.Ritik-app.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
